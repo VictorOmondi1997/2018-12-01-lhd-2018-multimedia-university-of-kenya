@@ -1,0 +1,66 @@
+registered_at,checked_in_at,user_id,email,first_name,last_name,email_confirmed,date_of_birth,level_of_study,school,major,shirt_size,dietary_restrictions,special_needs,phone_number
+2018-11-07 03:30:50 UTC,2018-12-01 08:45:02 UTC,1967,ianduncan08@gmail.com,Ian,Duncan,TRUE,6/11/1998,University (Undergraduate),Multimedia University of Kenya,Computer Science,Unisex - M,None,,254714904916
+2018-11-06 18:10:27 UTC,2018-12-01 08:44:46 UTC,1571,victoromondi1997@yahoo.com,Victor,Omondi,TRUE,6/15/1997,University (Undergraduate),Multimedia University of Kenya,Computer Technologies,Unisex - M,Vegetarian,Food and give aways,254797817059
+2018-11-07 17:19:47 UTC,2018-12-01 08:53:13 UTC,2168,maichf001@gmail.com,Frankline,Maina,FALSE,11/30/1998,University (Undergraduate),Multimedia University of Kenya,Computer Technologies,Unisex - M,None,KFC,254723154777
+2018-11-11 11:45:45 UTC,2018-12-01 08:18:21 UTC,3695,ndotoannie14@gmail.com,Ann,Ndoto,TRUE,12/14/1996,University (Undergraduate),kenyatta University ,Computer Information Systems,Women's - M,None,none,254797125157
+2018-11-09 09:37:37 UTC,2018-12-01 08:59:10 UTC,2951,silverdeltamega@gmail.com,Silas,Omurunga,TRUE,7/17/1990,Vocational / Code School,Kmtc,Public health,Unisex - L,None,,254700348785
+2018-11-10 06:53:44 UTC,2018-12-01 08:54:01 UTC,3199,kipkuruiosca9@gmail.com,osca,kipkurui,TRUE,1/19/1999,University (Undergraduate),multimedia university,software engineering,Unisex - XXS,None,,254715855338
+2018-11-09 09:57:52 UTC,2018-12-01 09:20:59 UTC,2957,ryancliffew@gmail.com,Ryan,Cliff ,TRUE,10/3/1996,University (Undergraduate),Multimedia University Of Kenya ,Software Engineering,Unisex - XL,None,,254799010114
+2018-11-09 06:00:26 UTC,2018-12-01 08:53:30 UTC,2912,isaac@afrismashtech.co.ke,Isaac,MUturi,TRUE,2/2/1995,University (Master's / Doctoral),University of nairobi,Software Engineering,Unisex - M,None,No,254715934415
+2018-11-09 17:20:23 UTC,2018-12-01 08:18:38 UTC,3052,annaliskirwa@gmail.com,Annalis ,Kirwa,TRUE,5/7/1998,University (Undergraduate),University of Kabianga,Computer science ,Women's - S,None,,254706288537
+2018-11-09 10:34:50 UTC,2018-12-01 08:16:55 UTC,2961,austinkweyu1@gmail.com,Austin,Lance,TRUE,4/30/1997,University (Undergraduate),Multimedia University of Kenya,Information Technology,Unisex - M,None,None,254715600890
+2018-11-13 21:04:14 UTC,2018-12-01 09:12:31 UTC,5400,cherutosharon555@gmail.com,Sharon ,Cheruto ,TRUE,10/10/2000,University (Undergraduate),Multimedia University ,Business information technology ,Women's - S,None,None ,254701792743
+2018-11-13 20:58:22 UTC,2018-12-01 08:18:32 UTC,5397,annahjoymogaka@gmail.com,Annah Joy,Mogaka,TRUE,9/11/1999,University (Undergraduate),Multimedia University of Kenya,Mathematics and computer science,Women's - XL,None,None,254780060932
+2018-11-14 04:18:18 UTC,2018-12-01 08:26:50 UTC,5588,rashiewillie23@gmail.com,Wilson,Wambua,TRUE,6/22/1998,University (Undergraduate),Multimedia university of kenya,Rongai,Unisex - M,None,No,254703459330
+2018-11-14 04:21:30 UTC,2018-12-01 09:17:11 UTC,5589,robertnganga220@gmail.com,Robert,Nganga,TRUE,10/11/1998,University (Undergraduate),Multimedia university of kenya,Databases,Unisex - L,None,None,254797044599
+2018-11-14 05:17:17 UTC,2018-12-01 08:52:38 UTC,5618,nduatelly@gmail.com,Eliud,Nduati,TRUE,1/16/1992,University (Undergraduate),Multimedia University,Information Technology,Unisex - M,Diabetic,,254702932061
+2018-11-12 20:19:09 UTC,2018-12-01 09:04:19 UTC,4380,josh.cardif14@outlook.com,Josh,Cardif,TRUE,9/7/1998,University (Undergraduate),Dedan Kimathi University of Technology ,Electrical Engineering,Unisex - L,None,,254742197114
+2018-11-14 05:40:44 UTC,2018-12-01 08:49:31 UTC,5627,tedd.juma@outlook.com,Teddy,Juma,TRUE,5/19/1998,University (Undergraduate),Multimedia University of Kenya,Mathematics and Computer Science,Unisex - M,None,,254717823343
+2018-11-13 20:54:12 UTC,2018-12-01 08:53:25 UTC,5394,geoffreykipkemoi98@gmail.com,Geofrey,Kibichii,FALSE,1/18/1999,University (Undergraduate),MMU,None,Unisex - XL,None,None,254702210042
+2018-11-14 14:03:01 UTC,2018-12-01 08:44:24 UTC,5932,leteipav@gmail.com,Vincent,Sipoi,TRUE,12/12/1995,University (Undergraduate),MULTIMEDIA UNIVERSITY OF KENYA,N/A,Unisex - L,None,N/A,254791047501
+2018-11-14 03:12:36 UTC,2018-12-01 08:47:28 UTC,5561,bnyagwansa2@gmail.com,Brian,Nyagwansa,TRUE,4/24/2000,University (Undergraduate),Multimedia university ,Software Engineering,Unisex - M,None,None,254746361661
+2018-11-13 22:17:59 UTC,2018-12-01 08:59:55 UTC,5450,chachaian1997@gmail.com,Ian,Churcher,TRUE,10/16/1997,University (Undergraduate),Multimedia University,Nothing,Unisex - M,I don't do cabbage📌,N/A,254700680002
+2018-11-20 14:23:07 UTC,2018-12-01 09:19:46 UTC,9828,gilbertoorla@gmail.com,Orla,Gilberto,TRUE,1/18/2000,High School / Secondary School,Booker Academy,Cse,Unisex - M,None,,254791573802
+2018-11-15 12:42:29 UTC,2018-12-01 08:47:18 UTC,6573,dancanmilgo73@gmail.com,Dante,Ngetich,TRUE,2/28/1997,University (Undergraduate),Multimedia University of Kenya,Comp science,Unisex - M,None,,254700000940
+2018-11-19 10:42:09 UTC,2018-12-01 09:17:18 UTC,8652,puritynyakundi00@gmail.com,Purity,Nyakundi,TRUE,4/5/2000,University (Undergraduate),Multimedia University,Software Engineering,Women's - S,None,None,254795139218
+2018-11-20 07:39:18 UTC,2018-12-01 08:58:55 UTC,9545,hilarymurunga@gmail.com,Hilary,Murunga,TRUE,7/1/1994,University (Undergraduate),Multimedia University ,Applied Mathematics,Unisex - M,None,N/A,254718036864
+2018-11-20 13:50:27 UTC,2018-12-01 08:59:49 UTC,9796,skennethomondi@gmail.com,Silas,Kenneth,TRUE,6/8/1995,University (Undergraduate),Rongo Univeristy,Informatics,Unisex - L,None,,254791350402
+2018-11-13 21:01:38 UTC,2018-12-01 08:52:53 UTC,5399,robinkeya96@gmail.com,Chemaimak,Robinson,TRUE,10/9/1997,University (Undergraduate),Multimedia university of kenya,Computer Science,Unisex - M,None,,254716943633
+2018-11-20 08:27:27 UTC,2018-12-01 09:11:10 UTC,9575,martinorina24@gmail.com,Martin ,Ondabu,TRUE,3/6/1997,University (Undergraduate),Multimedia University,IT,Unisex - L,None,,254716034611
+2018-11-24 16:53:18 UTC,2018-12-01 09:00:06 UTC,12758,ianosori@gmail.com,Ian,Osoro,TRUE,8/30/1997,University (Undergraduate),JKUAT,Computer Science,Unisex - L,None,,254704573957
+2018-11-27 21:49:38 UTC,2018-12-01 08:16:43 UTC,16306,adriateri@gmail.com,Adr1an ,T3r1,TRUE,10/14/1995,University (Undergraduate),University of Nairobi,Computer Science,Unisex - S,None,,254706333426
+2018-11-28 08:55:56 UTC,2018-12-01 09:17:33 UTC,17117,joemuchiri99@gmail.com,Joseph,Muchiri,FALSE,3/27/1999,University (Undergraduate),Multimedia University of Kenya,Bachelor of Science (Computer Science),Unisex - L,None,,254700752212
+2018-11-27 06:18:20 UTC,2018-12-01 09:19:34 UTC,14979,shisokamanuel@gmail.com,Manuel,Shisoka,FALSE,2/24/2000,University (Undergraduate),Multimedia university of Kenya,Software Engineering,Unisex - M,None,,254743142941
+2018-11-27 20:32:43 UTC,2018-12-01 08:45:26 UTC,16124,bildadnamawa@gmail.com,Bildad,Namawa,TRUE,8/29/1992,University (Master's / Doctoral),University of Nairobi,Computational Intelligence,Unisex - M,None,,254726430386
+2018-11-25 11:57:26 UTC,2018-12-01 08:52:25 UTC,13164,dennizkemcy9@gmail.com,Dennis,Kemboi,FALSE,9/16/1998,University (Undergraduate),Multimedia University of Kenya,Electrical Engineering,Unisex - M,Gluten-Free,None,254700400858
+2018-11-26 09:28:05 UTC,2018-12-01 09:19:57 UTC,13914,kamaumunyambu17@gmail.com,Peter,Kamau,TRUE,12/21/1996,University (Undergraduate),Kenyatta university ,Biomedical Engineering,Unisex - M,None,None,254745517680
+2018-11-26 13:57:29 UTC,2018-12-01 08:53:39 UTC,14103,stiveckamash@gmail.com,Stephen,Kamau,TRUE,1/1/1999,University (Undergraduate),Multimedia university of kenya,Computer Science,Women's - XXL,Vegetarian,None,254705698768
+2018-11-26 15:02:09 UTC,2018-12-01 09:18:00 UTC,14178,josephnjau04@gmail.com,Joseph,Njau,FALSE,5/24/1996,University (Undergraduate),Multimedia University of Kenya,Communications,Unisex - L,None,,254700197442
+2018-11-27 20:49:51 UTC,2018-12-01 08:59:39 UTC,16194,potterke4@gmail.com,Ian,Kipchirchir,TRUE,1/1/1992,University (Undergraduate),Africa Nazarene University,Computer Science,Unisex - M,None,,254723945591
+2018-11-28 05:37:24 UTC,2018-12-01 08:52:33 UTC,16881,stephenmoseti12@gmail.com,Stephen,Moseti,TRUE,2/16/1998,University (Undergraduate),Africa nazarene university,Computer Science,Unisex - M,Vegetarian,None,254743470256
+2018-11-26 15:08:42 UTC,2018-12-01 08:47:23 UTC,14185,bnf571@gmail.com,Boniface,Kioko,TRUE,3/20/1997,University (Undergraduate),Multimedia university,Computer Science,Unisex - M,Vegetarian,,254797466958
+2018-11-23 19:11:56 UTC,2018-12-01 08:26:39 UTC,12330,benjaminminor01@gmail.com,Benjamin,Benny,TRUE,10/22/1994,University (Undergraduate),Zetech University,Information Technology,Unisex - XL,None,,254702463740
+2018-11-23 19:01:36 UTC,2018-12-01 09:00:13 UTC,12322,jaredokemwa2034@gmail.com,Jared,Okemwa,TRUE,1/21/1997,University (Undergraduate),Jaramogi oginga odinga university ,Computer Information Systems,Unisex - M,None,,254799867085
+2018-11-27 04:29:06 UTC,2018-12-01 09:19:24 UTC,14871,murugimaureen99@gmail.com,Maureen,Murugi,TRUE,8/3/1999,University (Undergraduate),Multimedia University of Kenya,Computer Science,Women's - XL,None,,254725488466
+2018-11-23 19:57:44 UTC,2018-12-01 08:53:07 UTC,12356,lumumbaclement@gmail.com,Clement,Lumumba,TRUE,4/9/1997,University (Undergraduate),Multimedia University of Kenya,Web Development,Unisex - XL,None,,254727284935
+2018-11-24 02:31:10 UTC,2018-12-01 08:47:33 UTC,12466,fredsagwe4@gmail.com,Fred,Sagwe,TRUE,7/19/1980,Not Currently a Student,Africa Nazarene,Computer Science,Unisex - L,None,,254715949845
+2018-12-01 08:04:45 UTC,2018-12-01 08:58:49 UTC,22569,henrychoxx@gmail.com,Henry,Kioko,FALSE,7/23/1996,University (Undergraduate),multimedia university of kenya,Product Design,Unisex - XS,Gluten-Free,,254712529637
+2018-11-14 05:34:43 UTC,2018-12-01 08:42:57 UTC,5626,victoyirkin@gmail.com,Victor,Okinyi,FALSE,8/23/1998,University (Undergraduate),Multimedia university of kenya,Interactive Telecommunications Program (ITP),Unisex - L,None,,254701850242
+2018-12-01 08:43:55 UTC,2018-12-01 08:43:55 UTC,22806,duncansantiago18@gmail.com,Dan,Kipchirchir,FALSE,,,,,,,,
+2018-12-01 08:50:12 UTC,2018-12-01 08:50:12 UTC,22834,eduhmash@gmail.com,Eduh,Mash,FALSE,,,,,,,,
+2018-11-14 09:30:51 UTC,2018-12-01 08:52:45 UTC,5740,brucefelixm@gmail.com,Bruce,Snowflake,TRUE,3/2/1999,University (Undergraduate),Multimedia university,Computer Science,Unisex - M,None,None,254792743861
+2018-11-09 06:09:55 UTC,2018-12-01 08:59:32 UTC,2915,husseinsalat24@gmail.com,Hussein,Salat,TRUE,8/12/1995,University (Undergraduate),Jomo Kenyatta university of Agriculture and Technology,Information Technology,Unisex - M,None,N/A,254797894399
+2018-12-01 09:02:52 UTC,2018-12-01 09:02:52 UTC,22865,nevisadhiambo71@gmail.com,Nevis,Adhiambo,TRUE,,,,,,,,
+2018-12-01 09:11:47 UTC,2018-12-01 09:11:47 UTC,22889,nobertopondo@gmail.com,Norbert,Opondo,FALSE,,,,,,,,
+2018-12-01 09:09:27 UTC,2018-12-01 09:09:27 UTC,22881,nickoluoch32@gmail.com,Nick,Oluoch,FALSE,,,,,,,,
+2018-12-01 09:07:01 UTC,2018-12-01 09:07:01 UTC,22873,samwaira625@gmail.com,Samuel Wairia,WAiria,FALSE,,,,,,,,
+2018-12-01 09:08:43 UTC,2018-12-01 09:08:43 UTC,22878,nissi254@outlook.com,Nissi,Ngema,TRUE,5/15/1998,University (Undergraduate),Multimedia University of Kenya,Communications,Unisex - M,None,,254702865660
+2018-12-01 09:07:51 UTC,2018-12-01 09:07:50 UTC,22876,antoninaawino@gmail.com,Antonina,Awinoni,FALSE,,,,,,,,
+2018-11-16 14:27:34 UTC,2018-12-01 09:12:43 UTC,7271,chegelawrence1@gmail.com,Lawrence,Mburu,TRUE,2/16/1996,University (Undergraduate),Multimedia University of Kenya,Computer Science,Unisex - M,Vegan,,254796545888
+2018-11-30 18:39:42 UTC,2018-12-01 09:17:50 UTC,21263,luizdarwin45@gmail.com,Luiz,Darwin,TRUE,3/16/1999,University (Undergraduate),Multimedia university ,Software Engineering,Unisex - M,None,,254797781742
+2018-11-29 06:06:02 UTC,2018-12-01 08:52:59 UTC,18568,chombawa@gmail.com,Chomba,Waihenya,TRUE,12/7/1993,Not Currently a Student,The University of South Florida,Bsc Computer Science (Graduated in 2017),Unisex - M,Gluten Free and Dairy Free,,
+2018-11-30 20:58:01 UTC,2018-12-01 08:59:23 UTC,21489,kipronoian68@gmail.com,Ian,Kiprono,TRUE,10/19/1998,University (Undergraduate),Multimedia university of Kenya,Computer Science,Unisex - S,None,None,254712028279
+2018-11-29 18:40:27 UTC,2018-12-01 08:16:48 UTC,19592,allansolitei05@gmail.com,Allan,Mpaa,FALSE,10/5/1999,University (Undergraduate),Multimedia University,Bachelor Of Business Information Technology,Unisex - XL,None,None,254703403454
+2018-12-01 05:47:02 UTC,2018-12-01 09:20:34 UTC,22326,richardnorton25@gmail.com,Richard ,Omondi ,TRUE,5/18/1998,University (Undergraduate),Multimedia university ,Network Security,Unisex - XL,Vegetarian,None,254743952649
+2018-11-30 02:26:02 UTC,2018-12-01 09:12:20 UTC,20079,barackkisuge.bk@gmail.com,Juma ,Baraka,TRUE,6/5/1999,University (Undergraduate),Multimedia University,Computer Technologies,Unisex - M,None,,254700568206
+2018-12-01 07:02:11 UTC,2018-12-01 08:53:19 UTC,22455,abwaocollins060@gmail.com,Collins,Abwao,TRUE,11/28/1999,University (Undergraduate),Multimedia University of Kenya,Computer Science,Unisex - XL,None,,254757127350
